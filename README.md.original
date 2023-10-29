@@ -282,7 +282,6 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [Skyline](https://skyline-emu.one/) | Yes | MPLv2 | No | No | ? | Nintendo Switch |
 | [Strato](https://github.com/strato-emu/strato) | Yes | GNU GPLv3 | No | Yes | ? | Nintendo Switch |
 | [Yuzu](https://yuzu-emu.org/) | Yes | GNU GPLv3 | No | Yes | Yes | Nintendo Switch |
-| [Skyline](https://skyline-emu.one/) | Yes | MPL-2.0 | No | No | No | Nintendo Switch |
 
 ## Sega Master System
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
