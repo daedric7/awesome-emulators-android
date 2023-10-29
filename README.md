@@ -103,13 +103,6 @@ This list will always be kept as complete and up-to-date as possible, but please
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
 | [AetherSX2](https://www.aethersx2.com/archive/) | No | Proprietary | No | No | No | Sony PlayStation 2 |
-| [DobieStation](https://github.com/PSI-Rockin/DobieStation) | Yes | GNU GPLv3 | No | No | No | Sony PlayStation 2 |
-| [hpsx64](https://sourceforge.net/projects/hpsx64/) | Yes | GNU GPLv3 | No | Yes | No | Sony PlayStation 2 |
-| [NeutrinoSX2](https://www.emulator-zone.com/doc.php/ps2/neutrinosx2.html) | Yes | GNU GPLv2 | No | No | No | Sony PlayStation 2 |
-| [orbum](https://github.com/hch12907/orbum) | Yes | GNU GPLv3 | No | No | No | Sony PlayStation 2 |
-| [PCSX2](https://pcsx2.net/) | Yes | GNU GPLv3 | No | Yes | Yes | Sony PlayStation 2 |
-| [Play!](https://purei.org/) | Yes | MIT license | No | Yes | Yes | Sony PlayStation 2 |
-| [PS2emu](https://www.emulator-zone.com/doc.php/ps2/ps2emu.html) | No | Proprietary | No | No | No | Sony PlayStation 2 |
 
 ## Sony PlayStation 3
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
@@ -251,19 +244,13 @@ This list will always be kept as complete and up-to-date as possible, but please
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
 | [Dolphin](https://dolphin-emu.org/) | Yes | GNU GPLv3 | No | Yes | Yes | Nintendo GameCube, Nintendo Wii |
-| [Dolwin](https://www.emulation64.com/files/info/86/dolwin.html/) | Yes? | Source available | No | No | No | Nintendo GameCube |
-| [GCEmu](https://sourceforge.net/projects/gcemu-project/) | Yes? | Source available | No | No | No | Nintendo GameCube |
-| [Gcube](https://www.zophar.net/gc/gcube.html) | Yes | GNU GPLv2 | No | No | No | Nintendo GameCube |
-| [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka) | Yes | GNU GPLV3 | No | Yes | Yes | Nintendo GameCube, Nintendo Wii |
-| [Pureikyubu](https://github.com/emu-russia/pureikyubu) | Yes | CC0 1.0 Universal | No | Yes | ? | Nintendo GameCube |
-| [SuperGCube](https://www.zophar.net/gc/supergcube.html) | Yes | GNU GPLv2 | No | No | No | Nintendo GameCube |
-| [WhineCube](http://whinecube.emulation64.com/) | Yes | GNU GPLv2 | No | No | No | Nintendo GameCube |
+| [Ishiiruka](https://github.com/Tinob/Ishiiruka) | Yes | GNU GPLv3 | No | Yes | Yes | Nintendo GameCube, Nintendo Wii |
 
 ## Nintendo Wii
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
 | [Dolphin](https://dolphin-emu.org/) | Yes | GNU GPLv3 | No | Yes | Yes | Nintendo GameCube, Nintendo Wii |
-| [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka) | Yes | GNU GPLv3 | No | Yes | Yes | Nintendo GameCube, Nintendo Wii |
+| [Ishiiruka](https://github.com/Tinob/Ishiiruka) | Yes | GNU GPLv3 | No | Yes | Yes | Nintendo GameCube, Nintendo Wii |
 
 ## Nintendo Wii U
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
@@ -275,14 +262,9 @@ This list will always be kept as complete and up-to-date as possible, but please
 ## Nintendo Switch
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
-| [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn) | Yes | ISC license | No | No | No | Nintendo Switch |
-| [Mephisto](https://github.com/reswitched/Mephisto) | Yes | GNU GPLv2 | No | No | No | Nintendo Switch |
-| [NSEmu](https://github.com/RKX1209/nsemu) | Yes | GNU GPLv3 | No | No | No | Nintendo Switch |
-| [Ryujinx](https://ryujinx.org/) | Yes | MIT license | No | Yes | Yes | Nintendo Switch |
-| [Skyline](https://skyline-emu.one/) | Yes | MPLv2 | No | No | ? | Nintendo Switch |
-| [Strato](https://github.com/strato-emu/strato) | Yes | GNU GPLv3 | No | Yes | ? | Nintendo Switch |
-| [Yuzu](https://yuzu-emu.org/) | Yes | GNU GPLv3 | No | Yes | Yes | Nintendo Switch |
 | [Skyline](https://skyline-emu.one/) | Yes | MPL-2.0 | No | No | No | Nintendo Switch |
+| [Strato](https://github.com/strato-emu/strato) | Yes | GPlv3 | No | Yes | No | Nintendo Switch |
+| [Yuzu](https://yuzu-emu.org/) | Yes | GNU GPLv3 | No | Yes | Yes | Nintendo Switch |
 
 ## Sega Master System
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
@@ -609,37 +591,15 @@ This list will always be kept as complete and up-to-date as possible, but please
 ## Nintendo DS
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
-| [CorgiDS](https://github.com/PSI-Rockin/CorgiDS) | Yes | GNU GPLv3 | No | No | ? | Nintendo DS |
-| [DeeS](https://github.com/DeeSEmu/DeeS) | Yes | GNU GPLv3 | No | No | No | Nintendo DS |
-| [DeSmuME](https://desmume.org/) | Yes | GNU GPLv2 | No | Yes | Yes | Nintendo DS |
-| [DeSmuME-X432R](https://www.emulation64.com/files/info/741/desmume-x432r.html/) | Yes | GNU GPLv2 | No | Yes | Yes | Nintendo DS |
-| [DesmumeX](https://www.1emulation.com/forums/topic/35774-desmumex-v087-new-update) | Yes | GNU GPLv2 | No | No | ? | Nintendo DS |
-| [DeSmuME-PSP](https://github.com/TheMrIron2/DeSmuME-PSP) | Yes | GNU GPLv2 | No | No | ? | Nintendo DS |
-| [dasShiny](https://github.com/Cydrak/dasShiny) | Yes | GNU GPLv2 | No | No | ? | Nintendo DS |
-| [DraStic](https://play.google.com/store/apps/details?id=com.dsemu.drastic) | No | Proprietary | Yes | Yes | Yes | Nintendo DS |
-| [DSemu](https://www.emulator-zone.com/doc.php/nds/dsemu.html) | Yes | MIT license | No | No | No | Nintendo DS |
-| DSemu-ng (no known links to downloads or websites) | Yes | MIT license | No | No | No | Nintendo DS |
-| [Dualis](https://dualis.1emu.net/) | Yes? | Source available | No | No | No | Nintendo DS |
-| [Dust](https://github.com/kelpsyberry/dust) | Yes | GNU GPLv3 | No | Yes | ? | Nintendo DS |
-| [DuoS](https://ds-duos.blogspot.com/) | No | Proprietary | No | No | No | Nintendo DS |
-| [iDeaS](https://www.emulator-zone.com/doc.php/nds/ideas.html) | No | Proprietary | No | No | No | Nintendo DS |
-| [medusa](https://mgba.io/downloads.html) | Yes | MPL 2.0 | No | No? | No | Nintendo DS |
-| [melonDS](https://melonds.kuribo64.net/) | Yes | GNU GPLv3 | No | Yes | Yes | Nintendo DS |
-| [ndsemu](https://github.com/rasky/ndsemu) | Yes? | Source available | No | No | No | Nintendo DS |
-| [NeonDS](https://www.zophar.net/ds/neonds.html) | No | Proprietary | No | No | No | Nintendo DS |
-| [NooDS](https://github.com/Hydr8gon/NooDS) | Yes | GNU GPLv3 | No | Yes | ? | Nintendo DS |
-| [NooDS-Launcher](https://github.com/BlackSheepBoy69/NooDS-Launcher-Vita-) | Yes | GNU GPLv3 | No | No? | ? | Nintendo DS |
+| [melonDS-android](https://github.com/rafaelvcaetano/melonDS-android) | Yes | GNU GPLv3 | No | Yes | Yes | Nintendo DS |
+| [DraStic](https://play.google.com/store/apps/details?id=com.dsemu.drastic) | No | - | Yes | Yes | No | Nintendo DS |
 
 ## Nintendo 3DS
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
-| [3dmoo](https://github.com/plutooo/3dmoo) | Yes? | Source available | No | No | No | Nintendo 3DS |
 | [Citra](https://citra-emu.org/) | Yes | GNU GPLv2 | No | Yes | Yes | Nintendo 3DS |
-| [Corgi3DS](https://github.com/PSI-Rockin/Corgi3DS) | Yes | GNU GPLv3 | No | No | No | Nintendo 3DS |
-| [LemonLime](https://github.com/ItsKaitlyn03/LemonLime/) | Yes? | Source available | No | No | No | Nintendo 3DS |
-| [Mikage (unreleased so far)](https://mikage.app/) | No | N/A | No | No | No | None, yet |
-| [Panda3DS](https://github.com/wheremyfoodat/Panda3DS) | Yes | GNU GPLv3 | No | Yes | ? | Nintendo 3DS |
-| [TronDS](http://trondsemu.byethost15.com/) | No | Proprietary | No | No | No | Nintendo 3DS |
+| [Mikage](https://mikage.app/) | No | - | No | Yes | No | Nintendo 3DS |
+
 
 ## Game Park GP32
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
@@ -661,18 +621,8 @@ This list will always be kept as complete and up-to-date as possible, but please
 ## Sony PlayStation Portable
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
-| [cspspemu](https://github.com/cspspemu/cspspemu) | Yes? | Source available | No | No | No | Sony PlayStation Portable |
-| [JPCSP](https://jpcsp.org/) | Yes | GNU GPLv3 | No | Yes | ? | Sony PlayStation Portable |
-| [JPCSP2C](https://github.com/georgemoralis/jpcsp2c) | Yes | GNU GPLv3 | No | No | No | Sony PlayStation Portable |
-| [jspspemu](https://github.com/jspspemu/jspspemu) | Yes? | Source available | No | No | No | Sony PlayStation Portable |
-| [mfzpsp](https://code.google.com/archive/p/mfzpsp/) | Yes | GNU GPLv3 | No | No | No | Sony PlayStation Portable |
-| [PCSP](https://www.emulator-zone.com/doc.php/psp/pcsp.html) | No | Proprietary | No | No | No | Sony PlayStation Portable |
-| [Potemkin](https://www.emulator-zone.com/doc.php/psp/potemkin.html) | Yes | GNU GPLv2 | No | No | No | Sony PlayStation Portable |
 | [PPSSPP](https://ppsspp.org/) | Yes | GNU GPLv2+ | No | Yes | Yes | Sony PlayStation Portable |
-| [PSPE](https://www.emulator-zone.com/doc.php/psp/pspe.html) | No | Proprietary | No | No | No | Sony PlayStation Portable |
-| [pspemu](https://github.com/soywiz-archive/pspemu) | Yes? | Source available | No | No | No | Sony PlayStation Portable |
-| [pspplayer](https://code.google.com/archive/p/pspplayer/) | Yes | GNU LGPLv2 | No | No | No | Sony PlayStation Portable |
-| [Sam](https://www.zophar.net/psp/sam.html) | Yes? | Source available | No | No | No | Sony PlayStation Portable |
+
 
 ## Sony PocketStation
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
@@ -685,7 +635,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
 | [Vita3K](https://vita3k.org/) | Yes | GNU GPLv2 | No | Yes | Yes | Sony PlayStation Vita |
-| [vitaemu](https://github.com/soywiz-archive/vitaemu) | Yes? | Source available | No | No | No | Sony PlayStation Vita |
+
 
 ## Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
