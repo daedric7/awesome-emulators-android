@@ -1,4 +1,4 @@
-# Awesome Emulators
+# Awesome Emulators Android
 
 ### A list of all the emulators for a particular system. Includes honorable and historical mentions as well!
 
@@ -9,6 +9,10 @@ This list will always be kept as complete and up-to-date as possible, but please
 ***Quick note: the recommended column asks the question "is there a use case for this emulator besides for historical or archival reasons?" If the answer is yes, it only means there is a reason to use the emulator in current year. It doesn't necessarily mean you should use it to just play video games necessarily, it could be useful for debugging/development, it might have exclusive features, or it might be relevant for some other reason.***
 
 ### For more information about this project, how you can contribute, frequently asked questions, and more, please go to the end of this document.
+
+This is based on the Awesome Emulators list by DerekTurtleRoe - [Link](https://github.com/DerekTurtleRoe/awesome-emulators/)
+Check it out for a huge and amazing list of emulators for PC
+
 
 ### Now onto the list! 😄
 ## Video game console emulators
