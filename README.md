@@ -109,30 +109,14 @@ Check it out for a huge and amazing list of emulators for PC
 | [AetherSX2](https://www.aethersx2.com/archive/) | No | Proprietary | No | No | No | Sony PlayStation 2 |
 
 ## Sony PlayStation 3
-| Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
-|---|---|---|---|---|---|---|
-| [Nucleus](https://github.com/AlexAltea/nucleus) | Yes | GNU GPLv2 | No | No | No | Sony PlayStation 3 |
-| [PS3F](https://web.archive.org/web/20161029044210/http://www.geocities.jp/mj3kj8o5/ps3f/index.html) | No | Proprietary | No | No | No | Sony PlayStation 3 |
-| [RPCS3](https://rpcs3.net/) | Yes | GNU GPlv2 | No | Yes | Yes | Sony PlayStation 3 |
-| [Short Waves](https://wololo.net/downloads/index.php/download/8128) | No | Proprietary | No | No | No | Sony PlayStation 3 |
+None for now :(
 
 ## Sony PlayStation 4
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
-|---|---|---|---|---|---|---|
-| [fpPS4](https://github.com/red-prig/fpPS4) and a [GUI](https://github.com/themitosan/fpPS4-Temmie-s-Launcher) | Yes | LGPLv2.1 (GUI is GNU GPLv2) | No | Yes | ? | Sony PlayStation 4 |
-| [GPCS4](https://github.com/Inori/GPCS4) | Yes | GNU GPLv3 | No | Yes? | No | Sony PlayStation 4 |
-| [Kyty](https://github.com/InoriRus/Kyty) | Yes | MIT license | No | Yes? | ? |  Sony PlayStation 4, Sony PlayStation 5|
-| [Obliteration](https://github.com/obhq/obliteration) | Yes | MIT license | No | Yes | No | Sony PlayStation 4 |
-| [Orbital](https://github.com/AlexAltea/orbital) | Yes | MIT license | No | Yes? | No | Sony PlayStation 4 |
-| [PS4Delta](https://github.com/Force67/ps4delta) | Yes | GNU GPLv2 | No | No | No | Sony PlayStation 4 |
-| [RPCSX](https://github.com/RPCSX/rpcsx) | Yes | GNU GPLv2 | No | Yes | ? | Sony PlayStation 4 |
-| [shadPS4](https://github.com/georgemoralis/shadPS4) | Yes | GNU GPLv2 | No | Yes | ? | Sony PlayStation 4 |
-| [Spine](https://github.com/devofspine/spine) | No | Proprietary | No | No | No | Sony PlayStation 4 |
+None for now :(
 
 ## Sony PlayStation 5
-| Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
-|---|---|---|---|---|---|---|
-| [Kyty](https://github.com/InoriRus/Kyty) | Yes | MIT license | No | Yes? | No | Sony PlayStation 5 |
+None for now :(
 
 ## Nintendo Entertainment System/Famicom
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
