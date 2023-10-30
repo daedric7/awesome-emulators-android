@@ -1145,25 +1145,7 @@ None for now :(
 ## Arcade machine emulators
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
-| [Final Burn](https://www.zophar.net/fba/final-burn.html) | Yes | Source available | No | No | No | Multiple arcade systems |
-| [Final Burn Alpha (AKA FB Alpha or FBA)](http://fbalpha.com/) | Yes | Source available | No | No | No | Multiple arcade systems |
-| [Final Burn Alpha Neo](https://github.com/finalburnneo/FBNeo/) | Yes | Source available | No | Yes | Yes | Multiple arcade systems |
-| [GnGeo](https://github.com/pepone42/gngeo) | Yes | GNU GPLv2 with an exception | No | No | ? | Neo Geo AES |
-| [Kawaks](http://cps2shock.emu-france.info/) |  |  |  |  |  |  |
-| [MAME (Multiple Arcade Machine Emulator)](https://mamedev.org/) | Yes | GNU GPLv2 and 3-clause BSD license | No | Yes | Yes | Many systems |
-| [NeoRAGEx](https://neoragex.net/en/) | No | Proprietary | No | No | ? | Neo Geo AES |
-| [TeknoParrot](https://teknoparrot.com/) | No | Proprietary | No | Yes | ? | Various arcade systems |
-| [Model 2 emulator](https://segaretro.org/Model_2_Emulator) | No | Proprietary | No | No | ? | Sega Model 2 |
-| [Supermodel](https://supermodel3.com/Download.html) | Yes | GNU GPLv2 | No | Yes | Yes | Sega Model 3 |
-| [ZiNc](https://www.emulator-zone.com/doc.php/arcade/zinc.html) | No | Proprietary | No | No | ? | ZN1, ZN2, and System 11 arcade hardware |
-| [Calice](http://calice.emuunlim.com/) | Partially | Video plugin is open-source | No | No | ? | Capcom CPS1 and CPS2 hardware |
-| [CPS3 Emulator](https://web.archive.org/web/20170913074954/http://nebula.emulatronia.com/) | No | Proprietary | No | No | ? | Capcom CPS3 hardware |
-| [Viva Nonno](https://vivanonno.vg-network.com/) | No | Proprietary | No | No | ? | Namco system 22 |
-| [Callus](http://caesar.logiqx.com/php/emulator.php?id=callus) | No | Proprietary | No | No | ? | Capcom CPS1 hardware |
-| [Callus95](http://caesar.logiqx.com/php/emulator.php?id=callus95) | No | Proprietary | No | No | ? | Capcom CPS1 hardware |
-| [Callus95 (patch)](https://cps2shock.emu-france.info/cls95p/) | No | Proprietary | No | No | ? | Capcom CPS1 hardware |
-| [Nebula](https://www.emulator-zone.com/doc.php/arcade/nebula.html) | No | Proprietary | No | No | ? | Neo Geo AES, CPS1/2, Konami, PolyGameMaster arcade hardware |
-| [Mjolnir](http://emu.kulichki.net/arcade/mjolnir/) | Yes? | Possibly MIT or MAME license? | No | No | ? | Namco System 21, System 22, and Super System 22 hardware |
+| Mame4Droid | OSS | Yes | No | Yes | Yes | Multiple arcade systems |
 
 ## Pinball machine emulators
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
