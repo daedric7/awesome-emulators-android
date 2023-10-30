@@ -597,6 +597,7 @@ Check it out for a huge and amazing list of emulators for PC
 |---|---|---|---|---|---|---|
 | [melonDS-android](https://github.com/rafaelvcaetano/melonDS-android) | Yes | GNU GPLv3 | No | Yes | Yes | Nintendo DS |
 | [DraStic](https://play.google.com/store/apps/details?id=com.dsemu.drastic) | No | - | Yes | Yes | No | Nintendo DS |
+| [NooDS](https://github.com/Hydr8gon/NooDS) | Yes | GPLv3 | No | Yes | Yes | Nintendo DS, Gameboy Advance |
 
 ## Nintendo 3DS
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
