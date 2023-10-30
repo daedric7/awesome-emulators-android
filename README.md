@@ -1192,56 +1192,6 @@ None for now :(
 | [MultiCott (unreleased along with all the cores except for Game Boy and Game Boy Advance)](http://neopocott.emuunlim.com/) | ? | ? | No | ? | ? | Game Boy, Game Boy Color, Game Boy Advance, Neo Geo Pocket, Neo Geo Pocket Color, Atari Lynx, Sega Game Gear, WonderSwan, WonderSwan Color, Gpack32 (?) |
 | [PCE](http://www.hampa.ch/pce/index.html) | Yes | GNU GPLv2 | No | No | ? | Atari ST/MegaST, IBM 5150 and IBM PC/XT 5160, classic Macintosh computers, and Regnecentralen RC759 Piccoline |
 
-## Emulation operating systems for computers
-| Operating system | FOSS | License | Paid | Active | Recommended | Emulators used |
-|---|---|---|---|---|---|---|
-| [Batocera](https://batocera.org/) | Yes | GNU GPLv2 | No | Yes | Yes | [Compatibility](https://batocera.org/compatibility.php) |
-| [Lakka](https://www.lakka.tv/) | Yes | [Multiple](https://github.com/libretro/Lakka-LibreELEC/tree/Lakka-v5.x/licenses) | No | Yes | Yes | RetroArch |
-| [Recalbox](https://gitlab.com/recalbox/recalbox) | Yes | GNU GPLv2 | No | Yes | Yes | ? |
-
-## Emulation operating systems for single board computers
-| Operating system | FOSS | License | Paid | Active | Recommended | Emulators used |
-|---|---|---|---|---|---|---|
-| [RetroPie](https://retropie.org.uk/) | Yes | GNU GPLv3 | No | Yes | Yes | [Supported systems](https://retropie.org.uk/about/systems/) |
-| [Lakka](https://www.lakka.tv/) | Yes | [Multiple](https://github.com/libretro/Lakka-LibreELEC/tree/Lakka-v5.x/licenses) | No | Yes | Yes | RetroArch |
-| [Recalbox](https://gitlab.com/recalbox/recalbox) | Yes | GNU GPLv2 | No | Yes | Yes | ? |
-| [Blast16](http://blast16.tripware.es/) | Yes | [License](https://blast16.tripware.es/doc/LICENSE.txt) | No | Yes | Yes | RetroArch using the Genesis Plus GX and PicoDrive cores |
-| [SNESES](http://sneses.tripware.es/) | Yes | [License](https://sneses.tripware.es/doc/LICENSE.txt) | No | Yes | Yes | RetroArch using multiple SNES cores |
-| [Ludo](https://github.com/libretro/ludo/) | Yes | GNU GPLv2 | No | Yes | Yes | RetroArch |
-
-## Emulation frontends and launchers for Windows/Linux
-| Emulator | FOSS | License | Paid | Active | Recommended | Emulators supported |
-|---|---|---|---|---|---|---|
-| [LaunchBox](https://www.launchbox-app.com/) | No | Proprietary | Yes | Yes | Yes | Yes |
-| [Playnite](https://playnite.link/) | Yes | MIT license | No | Yes | Yes | Yes |
-| [RetroBat](https://www.retrobat.org/) | Yes | LGPLv3 | No | Yes | Yes | Yes |
-| [HyperSpin](https://hyperspin-fe.com/) | No | Proprietary | No | ? | ? | Yes |
-| [Attract-Mode](http://attractmode.org/) | Yes | GNU GPLv3 | No | Yes | ? | Yes |
-| [QuickPlay](http://quickplay.sourceforge.net/) | Yes | BSD license | No | Yes | ? | Yes |
-| [EmulationStation](https://emulationstation.org/) | Yes | MIT license | No | No | ? | Yes |
-| [EmulationStation Desktop Edition](https://es-de.org/) | Yes | MIT license | No | Yes | Yes | Yes |
-| [RetroFE](http://retrofe.nl/) | Yes | GNU GPLv3 | No | Yes | Yes | Yes |
-| [Lutris](https://lutris.net/) | Yes | GNU GPLv3 | No | Yes | Yes | ? |
-| [Nostlan](https://github.com/quinton-ashley/nostlan/) | Yes | GNU GPLv3 | No | Yes | ? | Yes |
-| [skeletonKey](https://github.com/oldtools/skeletonkey) | No | Custom | No | Yes | ? | Yes |
-| [Pegasus](https://pegasus-frontend.org/) | Yes | GNU GPLv3 | No | Yes | Yes | Yes |
-| [GameHub](https://tkashkin.github.io/projects/gamehub/) | Yes | GNU GPLv3 | No | No | ? | Yes |
-| [GameEx](https://www.gameex.info/) | No | Proprietary | No | Yes | ? | Yes |
-| [mGalaxy](https://www.mgalaxy.com/) | No | Proprietary | Yes | Yes | Yes | Yes |
-| [Emu Loader](https://emuloader.mameworld.info/) | No | Proprietary | No | No | ? | Yes |
-| [Terminal Launch](https://terminallaunch.blogspot.com/) | No | Proprietary | No | No | ? | Yes |
-| [Metropolis Launcher](https://github.com/theMK2k/MetropolisLauncher/) | Yes | GNU GPLv3 | No | No | No | Yes |
-| [FrontEnd Emulator Launcher (AKA FEEL)](https://feelfrontend.altervista.org/) | Yes | GNU LGPLv3 | No | No | ? | Yes |
-| [Maximum Arcade](https://www.maximus-arcade.com/) | No | Proprietary | Yes | No | No | Yes |
-| [EmuCenter 2](http://emucenter.2.free.fr/website/ENG/index.html) | No | Proprietary | No | ? | ? | Yes |
-| [RetriX](https://www.retrix.me/download) | Yes | MIT license | No | No | ? | Yes |
-| [minir](https://github.com/Alcaro/minir) | Yes | MIT license | No | No | ? | Yes |
-| [Phoenix](http://phoenix.vg/) | No | Proprietary | No | ? | ? | Yes |
-| [Rare (GUI for Legendary)](https://github.com/Dummerle/Rare) | Yes | GNU GPLv3 | No | Yes | Yes | ? |
-| [Arcadia](https://getarcadia.org/) | Yes | GNU GPLv3 | No | Yes | Yes | ? |
-| [Lutris](https://lutris.net/) | Yes | GNU GPLv3 | No | Yes | Yes | ? |
-| [GameRoom](https://github.com/GameRoomPC/GameRoom) | ? | Creative Commons BY-NC-SA 4.0 International | No | No | No | ? |
-
 ## Emulation frontends for Android
 | Frontend | FOSS | License | Paid | Active | Recommended | Emulators used |
 |---|---|---|---|---|---|---|
