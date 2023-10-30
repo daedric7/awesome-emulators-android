@@ -109,13 +109,15 @@ Check it out for a huge and amazing list of emulators for PC
 | [AetherSX2](https://www.aethersx2.com/archive/) | No | Proprietary | No | No | No | Sony PlayStation 2 |
 
 ## Sony PlayStation 3
+
 None for now :(
 
 ## Sony PlayStation 4
-| Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
+
 None for now :(
 
 ## Sony PlayStation 5
+
 None for now :(
 
 ## Nintendo Entertainment System/Famicom
