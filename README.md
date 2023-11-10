@@ -1145,7 +1145,8 @@ None for now :(
 ## Arcade machine emulators
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
-| Mame4Droid | OSS | Yes | No | Yes | Yes | Multiple arcade systems |
+| Mame4Droid | Yes | OSS | No | Yes | Yes | Multiple arcade systems |
+| [REtroArch](https://play.google.com/store/apps/details?id=com.retroarch&hl=en_US) | Yes | OSS | No | Yes | Yes | Multiple arcade systems |
 
 ## Pinball machine emulators
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
