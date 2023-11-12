@@ -20,39 +20,20 @@ Check it out for a huge and amazing list of emulators for PC
 ## Atari 2600
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
-| [A26](https://www.zophar.net/a2600/a26.html) | Yes? | Source available | No | No | No | Atari 2600 |
-| [Gopher2600](https://github.com/JetSetIlly/Gopher2600) | Yes | GNU GPLv3 | No | Yes | ? | Atari 2600 |
-| [javatari](https://github.com/ppeccin/javatari.js) | Yes | AGPLv3 | No | Yes | No | Atari 2600 |
-| [javatari (older version)](https://github.com/ppeccin/javatari) | Yes | AGPLv3 | No | No | No | Atari 2600 |
-| [NO$2K6](https://problemkaputt.github.io/) | No | Proprietary | No | Yes | Yes | Atari 2600 |
-| [PC Atari Emulator (PCAE)](https://pcae.vg-network.com/) | Yes | GNU GPLv2 | No | No | No | Atari 2600 |
-| [pyTari](https://sourceforge.net/projects/pytari/) | Yes | GNU GPLv2 | No | No | No | Atari 2600 |
-| [Stella](https://stella-emu.github.io/) | Yes | GNU GPLv2 | No | Yes | Yes | Atari 2600 |
-| [Stellarator](https://github.com/dpiponi/Stellarator) | Yes | 3-clause BSD | No | No | No | Atari 2600 |
-| [VCS 2600](https://www.zophar.net/a2600/vcs-2600.html) | No | Proprietary | No | No | No | Atari 2600 |
-| [Virtual 2600](https://www.zophar.net/a2600/virtual-2600.html) | Yes | GNU GPLv2 | No | No | No | Atari 2600 |
-| [Virtual VCS](https://www.zophar.net/a2600/virtual-vcs.html) | Yes | GNU GPLv2 | No | No | No | Atari 2600 |
-| [z26](https://www.zophar.net/a2600/z26.html) | Yes | GNU GPLv2 | No | No | Yes | Atari 2600 |
+| [RetroArch](https://play.google.com/store/apps/details?id=com.retroarch&hl=en_US) | Yes | OSS | No | Yes | Yes | Multiple arcade systems |
+| [RetroArch Plus](https://play.google.com/store/apps/details?id=com.retroarch.aarch64&hl=en_US) | Yes | OSS | No | Yes | Yes | Multiple arcade systems Android 8 |
 
 ## Atari 5200
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
-| [A5200DS](https://github.com/wavemotion-dave/A5200DS/) | Yes? | Source available | No | Yes | ? | Atari 5200 |
-| [Jum52](https://www.zophar.net/a5200/jum52.html) | No | Proprietary | No | No | ? | Atari 5200 |
-| [kat5200](https://kat5200.jillybunch.com/) | Yes | GNU GPLv2 | No | No | Yes | Atari 5200, Atari 8-bit computers |
-| [Rainbow](https://web.archive.org/web/20120914030219/http://www.chrislam.co.uk/rainbow-atari-8bit-emulator.htm) | No | Proprietary | No | No | ? | Atari 5200, Atari 8-bit computers |
-| [Virtual Super System (VSS)](http://atarihq.com/danb/a5200.shtml#emulator) | No | Proprietary | No | No | No | Atari 5200 |
+| [RetroArch](https://play.google.com/store/apps/details?id=com.retroarch&hl=en_US) | Yes | OSS | No | Yes | Yes | Multiple arcade systems |
+| [RetroArch Plus](https://play.google.com/store/apps/details?id=com.retroarch.aarch64&hl=en_US) | Yes | OSS | No | Yes | Yes | Multiple arcade systems Android 8 |
 
 ## Atari 7800
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
-| [A7800](https://github.com/7800-devtools/a7800) | Yes | GNU GPLv2 | No | Yes | ? | Atari 7800 |
-| [A7800DS](https://github.com/wavemotion-dave/A7800DS/) | Yes | GNU GPLv2 | No | Yes? | No | Atari 7800 |
-| [BupSystem](http://tailchao.com/BupSystem) | No | Proprietary | No | Yes? | No | Atari 7800 |
-| [EMU7800](https://www.zophar.net/a7800/emu7800.html) | Yes | GNU GPLv2 | No | No | No | Atari 7800 |
-| [ProSystem](https://github.com/gstanton/ProSystem1_3) | Yes | GNU GPLv2 | No | No | Yes | Atari 7800 |
-| [V7800](https://atarihq.com/danb/a7800.shtml#emulators) | Yes | GNU GPLv2 | No | No | No | Atari 7800 |
-| [Wii7800](https://github.com/raz0red/wii7800) | Yes | GNU GPLv2 | No | No | No | Atari 7800 |
+| [RetroArch](https://play.google.com/store/apps/details?id=com.retroarch&hl=en_US) | Yes | OSS | No | Yes | Yes | Multiple arcade systems |
+| [RetroArch Plus](https://play.google.com/store/apps/details?id=com.retroarch.aarch64&hl=en_US) | Yes | OSS | No | Yes | Yes | Multiple arcade systems Android 8 |
 
 ## Atari Jaguar/Jaguar CD
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
