@@ -1180,6 +1180,7 @@ None for now :(
 | [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid) | Yes | GNU GPLv3 | No | Yes | Yes | RetroArch |
 | [Daijishou](https://github.com/TapiocaFox/Daijishou) | Yes | MIT license | No | Yes | Yes | RetroArch, other emulator apps |
 | [Dig](https://play.google.com/store/apps/details?id=com.digdroid.alman.dig) | No | Proprietary | No | Yes | ? | Unknown, "supports 83 systems" |
+| [PocketDeck](https://github.com/tinyc-z/PocketDeck) | No | Source-available | No | Yes | ? | RetroArch, PPSSPP, Dolphin, Citra/Azahar, Winlator, 40+ emulator apps |
 
 ## Emulation scripts for setting up multiple emulators
 | Script | FOSS | License | Paid | Active | Recommended | Emulators used |
